@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Vibell</string>
+    <string name="songName">songName</string>
+    <string name="playButton">playButton</string>
+    <string name="textview">TextView</string>
+    <string name="pauseButton">pauseButton</string>
+    <string name="nextSong">nextSong</string>
+    <string name="previousSong">previousSong</string>
+    <string name="todo">todo</string>
+    <string name="appIcon">TODO</string>
+    <string name="icon">TODO</string>
+
+</resources>
